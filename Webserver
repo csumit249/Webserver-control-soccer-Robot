@@ -1,8 +1,7 @@
 /* Author : Sumit chatterjee
  *  Team : AICRA (Technoxian)
  *  ========================================================================================================================================================
- *  The given Code is of IOT Control robot for RoboSoccer with 4 different direction of motion i.e Forward , Right, Left, Backward and One kick Button with
- *  servo motor Interface to Push or Kick the Ball
+ *  The given Code is of IOT Control robot for RoboSoccer Demo Example with GPIO Interface
  *  ========================================================================================================================================================
  */
 
